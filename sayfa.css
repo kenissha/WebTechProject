@@ -81,8 +81,8 @@ tr:nth-child(even) {
 #M1,#M2{
 	max-height: 100%;
 	max-width: 100%;
-	color: red;
-	padding:100px 0px 100px 450px;
+	color: white;
+
 
 }
 
@@ -92,4 +92,11 @@ tr:nth-child(even) {
 
 #header{
 	margin: 75px;
+}
+
+body {
+  background-image:url("images/bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
